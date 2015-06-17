@@ -1,0 +1,241 @@
+Af - Afghanistan
+Al - Albania
+Dz - Algeria
+As - American Samoa
+Ad - Andorra
+Ao - Angola
+Ai - Anguilla
+Aq - Antarctica
+Ag - Antigua And Barbuda
+Ar - Argentina
+Am - Armenia
+Aw - Aruba
+Au - Australia
+At - Austria
+Az - Azerbaijan
+Bs - Bahamas
+Bh - Bahrain
+Bd - Bangladesh
+Bb - Barbados
+By - Belarus
+Be - Belgium
+Bz - Belize
+Bj - Benin
+Bm - Bermuda
+Bt - Bhutan
+Bo - Bolivia
+Ba - Bosnia And Herzegovina
+Bw - Botswana
+Bv - Bouvet Island
+Br - Brazil
+Io - British Indian Ocean Territory
+Bn - Brunei Darussalam
+Bg - Bulgaria
+Bf - Burkina Faso
+Bi - Burundi
+Kh - Cambodia
+Cm - Cameroon
+Ca - Canada
+Cv - Cape Verde
+Ky - Cayman Islands
+Cf - Central African Republic
+Td - Chad
+Cl - Chile
+Cn - China
+Cx - Christmas Island
+Cc - Cocos (keeling) Islands
+Co - Colombia
+Km - Comoros
+Cg - Congo
+Cd - Congo, The Democratic Republic Of The
+Ck - Cook Islands
+Cr - Costa Rica
+Ci - Cote D'ivoire
+Hr - Croatia
+Cu - Cuba
+Cy - Cyprus
+Cz - Czech Republic
+Dk - Denmark
+Dj - Djibouti
+Dm - Dominica
+Do - Dominican Republic
+Tp - East Timor
+Ec - Ecuador
+Eg - Egypt
+Sv - El Salvador
+Gq - Equatorial Guinea
+Er - Eritrea
+Ee - Estonia
+Et - Ethiopia
+Fk - Falkland Islands (malvinas)
+Fo - Faroe Islands
+Fj - Fiji
+Fi - Finland
+Fr - France
+Gf - French Guiana
+Pf - French Polynesia
+Tf - French Southern Territories
+Ga - Gabon
+Gm - Gambia
+Ge - Georgia
+De - Germany
+Gh - Ghana
+Gi - Gibraltar
+Gr - Greece
+Gl - Greenland
+Gd - Grenada
+Gp - Guadeloupe
+Gu - Guam
+Gt - Guatemala
+Gn - Guinea
+Gw - Guinea-bissau
+Gy - Guyana
+Ht - Haiti
+Hm - Heard Island And Mcdonald Islands
+Va - Holy See (vatican City State)
+Hn - Honduras
+Hk - Hong Kong
+Hu - Hungary
+Is - Iceland
+In - India
+Id - Indonesia
+Ir - Iran, Islamic Republic Of
+Iq - Iraq
+Ie - Ireland
+Il - Israel
+It - Italy
+Jm - Jamaica
+Jp - Japan
+Jo - Jordan
+Kz - Kazakstan
+Ke - Kenya
+Ki - Kiribati
+Kp - Korea, Democratic People's Republic Of
+Kr - Korea, Republic Of
+Kv - Kosovo
+Kw - Kuwait
+Kg - Kyrgyzstan
+La - Lao People's Democratic Republic
+Lv - Latvia
+Lb - Lebanon
+Ls - Lesotho
+Lr - Liberia
+Ly - Libyan Arab Jamahiriya
+Li - Liechtenstein
+Lt - Lithuania
+Lu - Luxembourg
+Mo - Macau
+Mk - Macedonia, The Former Yugoslav Republic Of
+Mg - Madagascar
+Mw - Malawi
+My - Malaysia
+Mv - Maldives
+Ml - Mali
+Mt - Malta
+Mh - Marshall Islands
+Mq - Martinique
+Mr - Mauritania
+Mu - Mauritius
+Yt - Mayotte
+Mx - Mexico
+Fm - Micronesia, Federated States Of
+Md - Moldova, Republic Of
+Mc - Monaco
+Mn - Mongolia
+Ms - Montserrat
+Me - Montenegro
+Ma - Morocco
+Mz - Mozambique
+Mm - Myanmar
+Na - Namibia
+Nr - Nauru
+Np - Nepal
+Nl - Netherlands
+An - Netherlands Antilles
+Nc - New Caledonia
+Nz - New Zealand
+Ni - Nicaragua
+Ne - Niger
+Ng - Nigeria
+Nu - Niue
+Nf - Norfolk Island
+Mp - Northern Mariana Islands
+No - Norway
+Om - Oman
+Pk - Pakistan
+Pw - Palau
+Ps - Palestinian Territory, Occupied
+Pa - Panama
+Pg - Papua New Guinea
+Py - Paraguay
+Pe - Peru
+Ph - Philippines
+Pn - Pitcairn
+Pl - Poland
+Pt - Portugal
+Pr - Puerto Rico
+Qa - Qatar
+Re - Reunion
+Ro - Romania
+Ru - Russian Federation
+Rw - Rwanda
+Sh - Saint Helena
+Kn - Saint Kitts And Nevis
+Lc - Saint Lucia
+Pm - Saint Pierre And Miquelon
+Vc - Saint Vincent And The Grenadines
+Ws - Samoa
+Sm - San Marino
+St - Sao Tome And Principe
+Sa - Saudi Arabia
+Sn - Senegal
+Rs - Serbia
+Sc - Seychelles
+Sl - Sierra Leone
+Sg - Singapore
+Sk - Slovakia
+Si - Slovenia
+Sb - Solomon Islands
+So - Somalia
+Za - South Africa
+Gs - South Georgia And The South Sandwich Islands
+Es - Spain
+Lk - Sri Lanka
+Sd - Sudan
+Sr - Suriname
+Sj - Svalbard And Jan Mayen
+Sz - Swaziland
+Se - Sweden
+Ch - Switzerland
+Sy - Syrian Arab Republic
+Tw - Taiwan, Province Of China
+Tj - Tajikistan
+Tz - Tanzania, United Republic Of
+Th - Thailand
+Tg - Togo
+Tk - Tokelau
+To - Tonga
+Tt - Trinidad And Tobago
+Tn - Tunisia
+Tr - Turkey
+Tm - Turkmenistan
+Tc - Turks And Caicos Islands
+Tv - Tuvalu
+Ug - Uganda
+Ua - Ukraine
+Ae - United Arab Emirates
+Gb - United Kingdom
+Us - United States
+Um - United States Minor Outlying Islands
+Uy - Uruguay
+Uz - Uzbekistan
+Vu - Vanuatu
+Ve - Venezuela
+Vn - Viet Nam
+Vg - Virgin Islands, British
+Vi - Virgin Islands, U.s.
+Wf - Wallis And Futuna
+Eh - Western Sahara
+Ye - Yemen
+Zm - Zambia
+Zw - Zimbabwe

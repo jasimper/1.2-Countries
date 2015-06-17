@@ -1,11 +1,15 @@
-file = 'countries.txt'
-num_of_countries = File.foreach(file).count
-puts "There are #{num_of_countries} countries accounted for here. They are as follows:"
+f = File.readlines('countries.txt')
+num_of_countries = f.count 
+	puts "There are #{num_of_countries} countries accounted for here. They are as follows:"
 
-File.readlines(file).each do |line|
-  puts line.gsub("|", " - ")
+	f.each do |line|
 
-#	final = line.split.map(&:capitalize).join(' ')
-# puts final
+		char_replace = line.gsub('|', ' - ')
+		cap_string = char_replace.split.map {|w| w.capitalize}.join(' ')
 
-end
+ 	puts cap_string
+
+ 		File.open('updated_countries.txt', 'a+') do |new_file| new_file.puts cap_string
+		end
+
+ end
