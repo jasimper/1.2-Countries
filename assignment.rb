@@ -5,7 +5,10 @@ num_of_countries = f.count
 	f.each do |line|
 
 		char_replace = line.gsub('|', ' - ')
-		cap_string = char_replace.split.map {|w| w.capitalize}.join(' ')
+		words_to_ignore = ['the', 'and', 'of']
+		cap_string = char_replace.split(' ')
+			.each { |w| w.capitalize! unless words_to_ignore.include? w }
+			.join(' ')
 
  	puts cap_string
 
